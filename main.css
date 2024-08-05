@@ -2137,7 +2137,7 @@ input, select, textarea {
 				width: 35px;
 				height: 141px;
 				margin-top: -70px;
-				background: url("images/bracket.svg");
+				background: url("/img/f3.jpg");
 				opacity: 0.15;
 			}
 
@@ -2184,7 +2184,7 @@ input, select, textarea {
 
 	#sidebar > section,
 	#sidebar > article {
-		border-top: solid 2px #e5e5e5;
+		border-top: solid 2px #802424;
 		box-shadow: inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;
 		margin: 5em 0 0 0;
 		padding: 5em 0 0 0;
@@ -2455,8 +2455,8 @@ input, select, textarea {
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #444;
-				border-right: solid 2px #3c3c3c;
+				background: #fd470ad7;
+				border-right: solid 2px #ff7142;
 				font-weight: 400;
 				text-transform: uppercase;
 				color: #888;
@@ -2471,7 +2471,7 @@ input, select, textarea {
 					height: 44px;
 					line-height: 44px;
 					border: 0;
-					border-top: solid 1px #3c3c3c;
+					border-top: solid 1px #ff7142;
 					padding: 0 1em 0 1em;
 				}
 
